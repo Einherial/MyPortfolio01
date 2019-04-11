@@ -1,0 +1,48 @@
+/* h1{
+  color:blue;
+
+}
+body{
+    font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+  background-image: url(../img/background01.png);
+} */
+
+
+header{
+}
+
+body{
+  margin:0px;
+}
+/*全体css*/
+.wrap{
+}
+
+/*背景css*/
+/* .bgimg{
+  opacity:0.3;
+  position:absolute;
+  background-image: url(../img/background01.png);
+  background-size: cover;
+} */
+
+/*上段１css*/
+.top-wrapper{
+  /* width:auto;
+  height:auto; */
+  background-color:red;
+  padding-top:180px 0 100px 0;
+  position:relative;
+  /* text-align:center; */
+}
+
+.top-wrapper h1{
+  margin:0;
+  font-size:45px;
+  color:#293033;
+
+}
+.top-wrapper p{
+  color:#293033;
+  margin:0;
+}
